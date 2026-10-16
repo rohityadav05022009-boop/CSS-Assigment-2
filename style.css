@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.parent{
+    height: 450px;
+    width: 300px;
+    border: 2px solid brown;
+    border-radius: 15px;
+    margin-left: 40%;
+    /* margin:60% auto ; */
+    /* justify-content: center; */
+    /* text-align:center; */
+     margin-top: 80px;
+    
+}
+.img{
+    height: 250px;
+    width: 300px;
+    background-color: pink;
+    border-top-left-radius:14px;
+    border-top-right-radius: 14px;
+    
+}
+.h1{
+    margin-left: 30px;
+    
+}
+.h2{
+     margin-left: 30px;
+     color: brown;
+}
+.p{
+     margin-left: 30px;
+}
+.b{
+     margin-left: 30px;
+     border: 1px solid brown;
+     border-radius: 5px;
+     padding: 10px 20px;
+     font-size: 14px;
+     background-color: rgb(177, 75, 75);
+     color: white;
+     
+
+     
+}
